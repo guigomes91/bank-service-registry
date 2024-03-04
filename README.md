@@ -1,3 +1,3 @@
-## Service registry dos microserviços Gomes Bank
+# Service registry dos microserviços Gomes Bank
 
-# Utiliza o Spring Boot e Spring Cloud Netflix Eureka.
+## Utiliza o Spring Boot e Spring Cloud Netflix Eureka.

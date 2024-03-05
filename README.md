@@ -9,10 +9,10 @@ Serviços descobertos
 
 Obter informações sobre todos os serviços registrados:
 
-Endpoint: /eureka/apps
-Método: GET
-Descrição: Retorna informações sobre todos os aplicativos (serviços) registrados no servidor Eureka, incluindo instâncias de cada aplicativo.
-Obter informações sobre um serviço específico:
+Endpoint: /eureka/apps  
+Método: GET  
+Descrição: Retorna informações sobre todos os aplicativos (serviços) registrados no servidor Eureka, incluindo instâncias de cada aplicativo.  
+Obter informações sobre um serviço específico:  
 
 Endpoint: /eureka/apps/{serviceName}
 Método: GET
